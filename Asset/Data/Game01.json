@@ -1,0 +1,373 @@
+{
+    "GameObject": {
+        "Enemy1  0": {
+            "name": "Enemy1  0",
+            "objectName": "Enemy1",
+            "pos.x": 7.0,
+            "pos.y": 0.0,
+            "pos.z": 12.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy1  1": {
+            "name": "Enemy1  1",
+            "objectName": "Enemy1",
+            "pos.x": -2.5,
+            "pos.y": 0.0,
+            "pos.z": 12.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy1  2": {
+            "name": "Enemy1  2",
+            "objectName": "Enemy1",
+            "pos.x": 0.0,
+            "pos.y": 0.0,
+            "pos.z": 22.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy1  3": {
+            "name": "Enemy1  3",
+            "objectName": "Enemy1",
+            "pos.x": 0.0,
+            "pos.y": 0.0,
+            "pos.z": 34.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy1  4": {
+            "name": "Enemy1  4",
+            "objectName": "Enemy1",
+            "pos.x": 0.0,
+            "pos.y": 0.0,
+            "pos.z": 42.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy1  5": {
+            "name": "Enemy1  5",
+            "objectName": "Enemy1",
+            "pos.x": -2.0,
+            "pos.y": 0.0,
+            "pos.z": 35.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy1  6": {
+            "name": "Enemy1  6",
+            "objectName": "Enemy1",
+            "pos.x": -3.5,
+            "pos.y": 0.0,
+            "pos.z": 47.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  0": {
+            "name": "Enemy2  0",
+            "objectName": "Enemy2",
+            "pos.x": 0.0,
+            "pos.y": 0.0,
+            "pos.z": 10.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  1": {
+            "name": "Enemy2  1",
+            "objectName": "Enemy2",
+            "pos.x": 6.0,
+            "pos.y": 0.0,
+            "pos.z": 20.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  2": {
+            "name": "Enemy2  2",
+            "objectName": "Enemy2",
+            "pos.x": -5.5,
+            "pos.y": 0.0,
+            "pos.z": 20.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  3": {
+            "name": "Enemy2  3",
+            "objectName": "Enemy2",
+            "pos.x": 7.5,
+            "pos.y": 0.0,
+            "pos.z": 32.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  4": {
+            "name": "Enemy2  4",
+            "objectName": "Enemy2",
+            "pos.x": 3.5,
+            "pos.y": 0.0,
+            "pos.z": 37.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  5": {
+            "name": "Enemy2  5",
+            "objectName": "Enemy2",
+            "pos.x": -4.5,
+            "pos.y": 0.0,
+            "pos.z": 30.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  6": {
+            "name": "Enemy2  6",
+            "objectName": "Enemy2",
+            "pos.x": -6.5,
+            "pos.y": 0.0,
+            "pos.z": 38.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  7": {
+            "name": "Enemy2  7",
+            "objectName": "Enemy2",
+            "pos.x": -5.5,
+            "pos.y": 0.0,
+            "pos.z": 10.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  8": {
+            "name": "Enemy2  8",
+            "objectName": "Enemy2",
+            "pos.x": -5.0,
+            "pos.y": 0.0,
+            "pos.z": 44.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Enemy2  9": {
+            "name": "Enemy2  9",
+            "objectName": "Enemy2",
+            "pos.x": 4.5,
+            "pos.y": 0.0,
+            "pos.z": 38.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Ter01  0": {
+            "name": "Ter01  0",
+            "objectName": "Ter01",
+            "pos.x": 3.5,
+            "pos.y": 0.0,
+            "pos.z": -0.5,
+            "rotate": 53.257999420166016,
+            "scale": 1.2000000476837158
+        },
+        "Ter01  1": {
+            "name": "Ter01  1",
+            "objectName": "Ter01",
+            "pos.x": -2.5,
+            "pos.y": 0.0,
+            "pos.z": 5.5,
+            "rotate": 1.0,
+            "scale": 1.399999976158142
+        },
+        "Ter01  2": {
+            "name": "Ter01  2",
+            "objectName": "Ter01",
+            "pos.x": -9.5,
+            "pos.y": 0.0,
+            "pos.z": 4.5,
+            "rotate": 116.93199920654297,
+            "scale": 1.7000000476837158
+        },
+        "Ter01  3": {
+            "name": "Ter01  3",
+            "objectName": "Ter01",
+            "pos.x": -10.0,
+            "pos.y": 0.0,
+            "pos.z": 35.0,
+            "rotate": 57.19599914550781,
+            "scale": 1.7000000476837158
+        },
+        "Ter01  4": {
+            "name": "Ter01  4",
+            "objectName": "Ter01",
+            "pos.x": -8.0,
+            "pos.y": 0.0,
+            "pos.z": 52.5,
+            "rotate": 49.99399948120117,
+            "scale": 1.7000000476837158
+        },
+        "Ter02  0": {
+            "name": "Ter02  0",
+            "objectName": "Ter02",
+            "pos.x": 9.0,
+            "pos.y": 0.10000000149011612,
+            "pos.z": 6.0,
+            "rotate": 85.81700134277344,
+            "scale": 2.0
+        },
+        "Ter02  1": {
+            "name": "Ter02  1",
+            "objectName": "Ter02",
+            "pos.x": 0.0,
+            "pos.y": 0.10000000149011612,
+            "pos.z": 19.0,
+            "rotate": 1.0,
+            "scale": 2.200000047683716
+        },
+        "Ter02  2": {
+            "name": "Ter02  2",
+            "objectName": "Ter02",
+            "pos.x": 14.0,
+            "pos.y": 0.20000000298023224,
+            "pos.z": 30.0,
+            "rotate": 89.4749984741211,
+            "scale": 2.0999999046325684
+        },
+        "Ter02  3": {
+            "name": "Ter02  3",
+            "objectName": "Ter02",
+            "pos.x": 14.0,
+            "pos.y": 0.20000000298023224,
+            "pos.z": 23.5,
+            "rotate": 91.0,
+            "scale": 2.0999999046325684
+        },
+        "Ter02  4": {
+            "name": "Ter02  4",
+            "objectName": "Ter02",
+            "pos.x": 13.0,
+            "pos.y": 0.20000000298023224,
+            "pos.z": 36.5,
+            "rotate": 89.4739990234375,
+            "scale": 2.200000047683716
+        },
+        "Ter02  5": {
+            "name": "Ter02  5",
+            "objectName": "Ter02",
+            "pos.x": 2.0,
+            "pos.y": 0.0,
+            "pos.z": 26.5,
+            "rotate": 178.47500610351563,
+            "scale": 2.299999952316284
+        },
+        "Ter02  6": {
+            "name": "Ter02  6",
+            "objectName": "Ter02",
+            "pos.x": 6.5,
+            "pos.y": 0.0,
+            "pos.z": 50.0,
+            "rotate": 1.0,
+            "scale": 2.9000000953674316
+        },
+        "Ter03  0": {
+            "name": "Ter03  0",
+            "objectName": "Ter03",
+            "pos.x": -4.0,
+            "pos.y": 0.0,
+            "pos.z": -0.5,
+            "rotate": 30.280000686645508,
+            "scale": 1.2000000476837158
+        },
+        "Ter03  1": {
+            "name": "Ter03  1",
+            "objectName": "Ter03",
+            "pos.x": -9.0,
+            "pos.y": -0.10000000149011612,
+            "pos.z": 14.0,
+            "rotate": 234.9149932861328,
+            "scale": 1.899999976158142
+        },
+        "Ter03  2": {
+            "name": "Ter03  2",
+            "objectName": "Ter03",
+            "pos.x": -10.0,
+            "pos.y": 0.0,
+            "pos.z": 20.0,
+            "rotate": 1.0,
+            "scale": 1.899999976158142
+        },
+        "Ter03  3": {
+            "name": "Ter03  3",
+            "objectName": "Ter03",
+            "pos.x": 0.0,
+            "pos.y": 0.0,
+            "pos.z": 40.0,
+            "rotate": 1.0,
+            "scale": 1.5
+        },
+        "Ter04  0": {
+            "name": "Ter04  0",
+            "objectName": "Ter04",
+            "pos.x": -22.0,
+            "pos.y": -0.5,
+            "pos.z": 20.0,
+            "rotate": 209.16200256347656,
+            "scale": 1.5
+        },
+        "Ter05  0": {
+            "name": "Ter05  0",
+            "objectName": "Ter05",
+            "pos.x": 4.5,
+            "pos.y": 0.0,
+            "pos.z": 8.5,
+            "rotate": 121.98400115966797,
+            "scale": 0.8999999761581421
+        },
+        "Ter05  1": {
+            "name": "Ter05  1",
+            "objectName": "Ter05",
+            "pos.x": -2.0,
+            "pos.y": 0.0,
+            "pos.z": 14.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Ter05  2": {
+            "name": "Ter05  2",
+            "objectName": "Ter05",
+            "pos.x": -7.5,
+            "pos.y": 0.0,
+            "pos.z": 23.0,
+            "rotate": 1.0,
+            "scale": 1.600000023841858
+        },
+        "Ter05  3": {
+            "name": "Ter05  3",
+            "objectName": "Ter05",
+            "pos.x": 2.5,
+            "pos.y": 0.0,
+            "pos.z": 25.5,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Ter05  4": {
+            "name": "Ter05  4",
+            "objectName": "Ter05",
+            "pos.x": -9.5,
+            "pos.y": 0.0,
+            "pos.z": 28.5,
+            "rotate": 1.0,
+            "scale": 1.7000000476837158
+        },
+        "Ter05  5": {
+            "name": "Ter05  5",
+            "objectName": "Ter05",
+            "pos.x": 0.0,
+            "pos.y": 0.0,
+            "pos.z": 37.0,
+            "rotate": 1.0,
+            "scale": 1.0
+        },
+        "Ter05  6": {
+            "name": "Ter05  6",
+            "objectName": "Ter05",
+            "pos.x": 4.0,
+            "pos.y": 0.0,
+            "pos.z": 57.5,
+            "rotate": 1.0,
+            "scale": 2.4000000953674316
+        }
+    }
+}
